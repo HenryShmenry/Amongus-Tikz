@@ -1,0 +1,250 @@
+\documentclass[11pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{amssymb}
+\usepackage{graphics}
+\usepackage{tikz}
+\pagestyle{fancy}
+
+\lhead{$\mathbf{Amongus}$}
+\chead{$\mathbf{Amongus}$}
+\rhead{Updated:$\mathbf{Amongus}$}
+\lfoot{Date: $\mathbf{Amongus}$}
+\cfoot{$\mathbf{Amongus}$}
+\rfoot{$\mathbf{Amongus}$}
+
+\begin{document}
+
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+\begin{tikzpicture}
+\draw[gray, fill, ultra thick][xscale=2.2, yscale=1](0.3,-1.75) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1.35,0) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](0,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=1, yscale=2](1,-0.45) circle [radius=0.5];
+\draw [red, fill, ultra thick][xscale=2, yscale=3] (0.25,0) circle [radius=0.5];
+\draw [blue, fill, ultra thick][xscale=2, yscale=1] (0,0.4) circle [radius=0.5];
+\draw[cyan, fill, ultra thick][xscale=1.5,yscale=0.4] (-0.08,1.6) circle [radius=0.5];
+\end{tikzpicture}
+amongus
+
+\end{document}
